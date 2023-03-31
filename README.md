@@ -8,6 +8,7 @@ Some companies on the list offer "remote-first" (the vast majority of staff do n
 - Doist (remote-first)
 - Envato (remote-first)
 - Automatic (remote-first)
+- Buildkite (remote-first)
 - Gitlab (remote-first)
 - Vault platform (remote-first)
 - Canva (remote-friendly)
