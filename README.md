@@ -45,4 +45,4 @@ Some companies on the list offer "remote-first" (the vast majority of staff do n
 - https://remoteok.com/?location=AU
 
 
-Created March 2023, however no guarentees made that the companies below have not changed their polciies. 
+Created March 2023, however no guarentees that the companies have not changed their policies. 
