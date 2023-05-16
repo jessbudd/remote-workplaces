@@ -10,6 +10,7 @@ Some companies on the list offer "remote-first" (the vast majority of staff do n
 - Automatic (remote-first)
 - Buildkite (remote-first)
 - Gitlab (remote-first)
+- Raisely (remote-first)
 - Vault platform (remote-first)
 - Canva (remote-friendly)
 - Hireup (remote-friendly)
